@@ -1,0 +1,6 @@
+{
+  "name": "Nithin's Portfolio",
+  "description": "A modern, responsive personal portfolio with dark/light mode, typing animations, and polished sections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

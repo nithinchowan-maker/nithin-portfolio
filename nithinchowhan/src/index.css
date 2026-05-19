@@ -8,13 +8,8 @@
 }
 
 :root {
-  --background: #ffffff;
+  --background: #f8fafc;
   --foreground: #0f172a;
-}
-
-.dark {
-  --background: #020617;
-  --foreground: #f8fafc;
 }
 
 @layer base {
@@ -37,5 +32,5 @@
 }
 
 .glass {
-  @apply backdrop-blur-md bg-white/70 dark:bg-slate-950/70 border border-white/20 dark:border-white/10;
+  @apply backdrop-blur-md bg-white/70 border border-slate-200;
 }
